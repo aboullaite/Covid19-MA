@@ -28,7 +28,7 @@ Oulad M'rah,Casablanca-Settat,0,0,0
 Oulad Saïd,Casablanca-Settat,0,0,0
 Oulad Sidi Ben Daoud,Casablanca-Settat,0,0,0
 Ras El Aïn,Casablanca-Settat,0,0,0
-Settat,Casablanca-Settat,0,0,0
+Settat,Casablanca-Settat,1,0,0
 Sidi Rahhal Chataï,Casablanca-Settat,0,0,0
 Soualem,Casablanca-Settat,0,0,0
 Azemmour,Casablanca-Settat,0,0,0
@@ -96,7 +96,7 @@ El Ouatia,Guelmim-Oued Noun,0,0,0
 Es-Semara,Laâyoune-Sakia El Hamra,0,0,0
 Fam El Hisn,Souss-Massa,0,0,0
 Foum Zguid,Souss-Massa,0,0,0
-Guelmim,Guelmim-Oued Noun,0,0,0
+Guelmim,Guelmim-Oued Noun,1,0,0
 Taghjijt,Guelmim-Oued Noun,0,0,0
 Tan-Tan,Guelmim-Oued Noun,0,0,0
 Tata,Souss-Massa,0,0,0
@@ -226,7 +226,7 @@ Midar,l'Oriental,0,0,0
 Nador,l'Oriental,0,0,0
 Naima,l'Oriental,0,0,0
 Oued Heimer,l'Oriental,0,0,0
-Oujda,l'Oriental,0,0,0
+Oujda,l'Oriental,1,0,0
 Ras El Ma,l'Oriental,0,0,0
 Saïdia,l'Oriental,0,0,0
 Selouane,l'Oriental,0,0,0
@@ -240,7 +240,7 @@ Touima,l'Oriental,0,0,0
 Touissit,l'Oriental,0,0,0
 Zaïo,l'Oriental,0,0,0
 Zeghanghane,l'Oriental,0,0,0
-Rabat,Rabat-Salé-Kénitra,10,0,0
+Rabat,Rabat-Salé-Kénitra,11,0,0
 Salé,Rabat-Salé-Kénitra,0,1,0
 Ain El Aouda,Rabat-Salé-Kénitra,0,0,0
 Harhoura,Rabat-Salé-Kénitra,0,0,0
@@ -333,7 +333,7 @@ Oulad Yaich,Béni Mellal-Khénifra,0,0,0
 Sidi Jaber,Béni Mellal-Khénifra,0,0,0
 Souk Sebt Oulad Nemma,Béni Mellal-Khénifra,0,0,0
 Zaouïat Cheikh,Béni Mellal-Khénifra,0,0,0
-Tanger‎,Tanger-Tétouan-Al Hoceïma,0,0,0
+Tanger‎,Tanger-Tétouan-Al Hoceïma,2,0,0
 Tétouan‎,Tanger-Tétouan-Al Hoceïma,1,0,0
 Akchour,Tanger-Tétouan-Al Hoceïma,0,0,0
 Assilah,Tanger-Tétouan-Al Hoceïma,0,0,0

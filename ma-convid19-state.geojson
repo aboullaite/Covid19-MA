@@ -2619,7 +2619,7 @@
         "Total Deaths": 0,
         "Total Recovered": 0,
         "fill": "#FFCFDF",
-		"fill-opacity": 0.5
+		    "fill-opacity": 0.5
       }
     },
     {
@@ -4824,7 +4824,7 @@
         "Total Deaths": 0,
         "Total Recovered": 0,
         "fill": "#FFCFDF",
-		"fill-opacity": 0.5
+		    "fill-opacity": 0.5
       }
     },
     {
@@ -12967,7 +12967,7 @@
         "Total Deaths": 0,
         "Total Recovred": 0,
         "fill": "#FE5F75",
-		"fill-opacity": 0.5
+		    "fill-opacity": 0.5
       }
     },
     {
@@ -14971,12 +14971,12 @@
         "ID": 6,
         "Name-AR": "الدار البيضاء - سطات",
         "Name-FR": "Casablanca-Settat",
-        "Total cases": 8,
-        "Active cases": 6,
+        "Total cases": 9,
+        "Active cases": 7,
         "Total Deaths": 1,
         "Total Recovred": 1,
         "fill": "#F53844",
-		"fill-opacity": 0.5        
+		    "fill-opacity": 0.5        
       }
     },
     {
@@ -16204,10 +16204,12 @@
         "ID": 10,
         "Name-AR": "كلميم - واد نون",
         "Name-FR": "Guelmim-Oued Noun",
-        "Total cases": 0,
-        "Total Deaths": 0,
+        "Total cases": 1,
+        "Total Deaths": 1,
         "Active cases": 0,
-        "Total Recovered": 0
+        "Total Recovered": 0,
+        "fill": "#FFCFDF",
+		    "fill-opacity": 0.5
       }
     },
     {
@@ -20347,7 +20349,7 @@
         "Total Deaths": 0,
         "Total Recovered": 0,
         "fill": "#FE5F75",
-		"fill-opacity": 0.5 
+		    "fill-opacity": 0.5 
       }
     },
     {
@@ -22423,12 +22425,12 @@
         "ID": 4,
         "Name-AR": "الرباط - سلا - القنيطرة",
         "Name-FR": "Rabat-Salé-Kénitra",
-        "Total cases": 13,
-        "Active cases": 12,
+        "Total cases": 14,
+        "Active cases": 13,
         "Total Deaths": 1,
         "Total Recovred": 0,
         "fill": "#F53844",
-		"fill-opacity": 0.5 
+		    "fill-opacity": 0.5 
       }
     },
     {
@@ -24412,12 +24414,12 @@
         "ID": 1,
         "Name-AR": "طنجة - تطوان - الحسيمة",
         "Name-FR": "Tanger-Tétouan-Al Hoceima",
-        "Total cases": 1,
-        "Active cases": 1,
+        "Total cases": 3,
+        "Active cases": 3,
         "Total Deaths": 0,
         "Total Recovred": 0,
         "fill": "#FFCFDF",
-		"fill-opacity": 0.5
+		    "fill-opacity": 0.5
       }
     },
     {
@@ -27817,9 +27819,12 @@
         "ID": 2,
         "Name-AR": "الشرق",
         "Name-FR": "Oriental",
-        "Active cases": 0,
+        "Total cases": 1,
+        "Active cases": 1,
         "Total Deaths": 0,
-        "Total Recovred": 0
+        "Total Recovred": 0,
+        "fill": "#FFCFDF",
+		    "fill-opacity": 0.5
       }
     }
   ]
