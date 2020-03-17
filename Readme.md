@@ -11,6 +11,12 @@ This is not an official repository for Morocco Covid-19 Cases. This is just a co
 |--------------------------------	|------------------------------	|------------------	|----------------------	|
 |               38               	|              35              	|         2        	|           1          	|
 
+### Latest updates 17/03/2020 اخر المستجدات
++ تسجيل 9 حالات إصابة جديدة بفيروس كورونا بالمغرب
++ المغرب يعلن عن تسجيل ثاني حالة وفاة، ويتعلق الأمر بمواطن مغربي من مدينة سلا بالغ من العمر 75 سنة.
++ إصابة جديدة، لمواطن  مغربي من مدينة الدار البيضاء قادم من فرنسا حالته الصحية مستقرة.
+
+
 ### Important Numbers / ارقام مهمة 
 + « Allo Yakada » Covid-19 : 0801 00 47 47
 + Allo Samu: 141
@@ -24,8 +30,14 @@ This is not an official repository for Morocco Covid-19 Cases. This is just a co
 + Centre Antipoison : 0537 68 64 64 / 0801 00 01 80
 + Renseignements : 160
 
-### Latest updates / اخر المستجدات
-+ تسجيل 9 حالات إصابة جديدة بفيروس كورونا بالمغرب
-+ المغرب يعلن عن تسجيل ثاني حالة وفاة، ويتعلق الأمر بمواطن مغربي من مدينة سلا بالغ من العمر 75 سنة.
-+ إصابة جديدة، لمواطن  مغربي من مدينة الدار البيضاء قادم من فرنسا حالته الصحية مستقرة.
-
+### Repository Structure
+```
+├── Readme.md                    // Project Readme, contains latest updates and important numbers
+├── ma-convid19-state.geojson    // a geoJson (map) representation of the current COVID-19 situation by region
+├── news.md                      // Important news/ updates and decisions since the first case of COVID-19 in Morocco
+├── stats
+│   ├── MA-times_series.csv      // Time series of COVID-19 data in Morocco
+│   ├── cities.csv               // COVID-19 Data in Morocco by city
+│   └── regions.csv              // COVID-19 Data n Morocco by region
+└── useful-links.md              // Some important & useful links about COVID-19
+```
