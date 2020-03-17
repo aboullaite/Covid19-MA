@@ -9,7 +9,7 @@ This is not an official repository for Morocco Covid-19 Cases. This is just a co
 
 | Total Cases / الإصابات المؤكدة 	| Active Casesالإصابات الحالية 	| Deaths / الوفيات 	| Recovered / المعافين 	  |
 |--------------------------------	|------------------------------	|------------------	|----------------------	|
-|               38               	|              35              	|         2        	|           1          	|
+|               44               	|              41              	|         2        	|           1          	|
 
 ### Latest updates 17/03/2020 اخر المستجدات
 + تسجيل 9 حالات إصابة جديدة بفيروس كورونا بالمغرب
@@ -35,6 +35,7 @@ This is not an official repository for Morocco Covid-19 Cases. This is just a co
 
 ### Repository Structure
 ```
+├── COVID19-MA-fund.md           // Updates about the fund created by Moroccan authorities to handle COVID-19 impact
 ├── Readme.md                    // Project Readme, contains latest updates and important numbers
 ├── ma-convid19-state.geojson    // a geoJson (map) representation of the current COVID-19 situation by region
 ├── news.md                      // Important news/ updates and decisions since the first case of COVID-19 in Morocco
