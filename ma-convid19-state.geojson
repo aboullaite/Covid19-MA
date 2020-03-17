@@ -27819,9 +27819,7 @@
         "Name-FR": "Oriental",
         "Active cases": 0,
         "Total Deaths": 0,
-        "Total Recovred": 0,
-        "fill": "#7987ff",
-		"fill-opacity": 0.5
+        "Total Recovred": 0
       }
     }
   ]
