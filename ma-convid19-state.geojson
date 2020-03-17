@@ -2614,9 +2614,12 @@
         "ID": 9,
         "Name-AR": "سوس - ماسة",
         "Name-FR": "Souss-Massa",
+        "Total cases": 2,
         "Active cases": 2,
         "Total Deaths": 0,
-        "Total Recovred": 0
+        "Total Recovered": 0,
+        "fill": "#FFCFDF",
+		"fill-opacity": 0.5
       }
     },
     {
@@ -4816,9 +4819,12 @@
         "ID": 5,
         "Name-AR": "بني ملال - خنيفرة",
         "Name-FR": "Béni Mellal-Khénifra",
+        "Total cases": 2,
         "Active cases": 2,
         "Total Deaths": 0,
-        "Total Recovred": 0
+        "Total Recovered": 0,
+        "fill": "#FFCFDF",
+		"fill-opacity": 0.5
       }
     },
     {
@@ -7762,9 +7768,10 @@
         "ID": 8,
         "Name-AR": "درعة - تافيلالت",
         "Name-FR": "Drâa-Tafilalet",
+        "Total cases": 0,
         "Active cases": 0,
         "Total Deaths": 0,
-        "Total Recovred": 0
+        "Total Recovered": 0
       }
     },
     {
@@ -9692,9 +9699,10 @@
         "ID": 12,
         "Name-AR": "الداخلة - وادي الذهب",
         "Name-FR": "Eddakhla-Oued Eddahab",
+        "Total cases": 0,
         "Active cases": 0,
         "Total Deaths": 0,
-        "Total Recovred": 0
+        "Total Recovered": 0
       }
     },
     {
@@ -12954,9 +12962,12 @@
         "ID": 3,
         "Name-AR": "فاس - مكناس",
         "Name-FR": "Fès-Meknès",
+        "Total cases": 6,
         "Active cases": 6,
         "Total Deaths": 0,
-        "Total Recovred": 0
+        "Total Recovred": 0,
+        "fill": "#FE5F75",
+		"fill-opacity": 0.5
       }
     },
     {
@@ -14960,9 +14971,12 @@
         "ID": 6,
         "Name-AR": "الدار البيضاء - سطات",
         "Name-FR": "Casablanca-Settat",
-        "Active cases": 7,
+        "Total cases": 8,
+        "Active cases": 6,
         "Total Deaths": 1,
-        "Total Recovred": 1
+        "Total Recovred": 1,
+        "fill": "#F53844",
+		"fill-opacity": 0.5        
       }
     },
     {
@@ -16190,9 +16204,10 @@
         "ID": 10,
         "Name-AR": "كلميم - واد نون",
         "Name-FR": "Guelmim-Oued Noun",
+        "Total cases": 0,
         "Total Deaths": 0,
         "Active cases": 0,
-        "Total Recovred": 0
+        "Total Recovered": 0
       }
     },
     {
@@ -17656,6 +17671,7 @@
         "ID": 11,
         "Name-AR": "العيون - الساقية الحمراء",
         "Name-FR": "Laayoune-Sakia El Hamra",
+        "Total cases": 0,
         "Active cases": 0,
         "Total Deaths": 0,
         "Total Recovred": 0
@@ -20326,9 +20342,12 @@
         "ID": 7,
         "Name-AR": "مراكش - آسفي",
         "Name-FR": "Marrakech-Safi",
+        "Total cases": 5,
         "Active cases": 5,
         "Total Deaths": 0,
-        "Total Recovred": 0
+        "Total Recovered": 0,
+        "fill": "#FE5F75",
+		"fill-opacity": 0.5 
       }
     },
     {
@@ -22404,9 +22423,12 @@
         "ID": 4,
         "Name-AR": "الرباط - سلا - القنيطرة",
         "Name-FR": "Rabat-Salé-Kénitra",
-        "Active cases": 13,
+        "Total cases": 13,
+        "Active cases": 12,
         "Total Deaths": 1,
-        "Total Recovred": 0
+        "Total Recovred": 0,
+        "fill": "#F53844",
+		"fill-opacity": 0.5 
       }
     },
     {
@@ -24390,9 +24412,12 @@
         "ID": 1,
         "Name-AR": "طنجة - تطوان - الحسيمة",
         "Name-FR": "Tanger-Tétouan-Al Hoceima",
+        "Total cases": 1,
         "Active cases": 1,
         "Total Deaths": 0,
-        "Total Recovred": 0
+        "Total Recovred": 0,
+        "fill": "#FFCFDF",
+		"fill-opacity": 0.5
       }
     },
     {
@@ -27794,7 +27819,9 @@
         "Name-FR": "Oriental",
         "Active cases": 0,
         "Total Deaths": 0,
-        "Total Recovred": 0
+        "Total Recovred": 0,
+        "fill": "#7987ff",
+		"fill-opacity": 0.5
       }
     }
   ]
