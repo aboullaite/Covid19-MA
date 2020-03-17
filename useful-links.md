@@ -7,4 +7,4 @@
 ](https://www.youtube.com/watch?v=y-5GhynCxV4)
 + الدحيح - [كورونا](https://www.youtube.com/watch?v=mawje1RAKOw&feature=youtu.be)
 + Mustapha Swinga - [نصائح مهمة بخصوص بخصوص الوضع الوبائي الحالي في المغرب](https://www.youtube.com/watch?v=MoQzKA2VGIQ)
-+
++ [Real Time Dashboard with Map Morocco COVID-19 (WIP)](https://www.datamaroc.com/covid19/) 
