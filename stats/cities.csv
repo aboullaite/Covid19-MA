@@ -2,7 +2,7 @@ City,Region,Active Cases,Total Deaths,Total Recovered
 Aïn Harrouda,Casablanca-Settat,0,0,0
 Ben Yakhlef,Casablanca-Settat,0,0,0
 Bouskoura,Casablanca-Settat,0,0,0
-Casablanca,Casablanca-Settat,7,1,1
+Casablanca,Casablanca-Settat,9,1,1
 Médiouna,Casablanca-Settat,0,0,0
 Mohammadia,Casablanca-Settat,0,0,0
 Tit Mellil,Casablanca-Settat,0,0,0
@@ -138,7 +138,7 @@ Tamansourt,Marrakech-Safi,0,0,0
 Tameslouht,Marrakech-Safi,0,0,0
 Tanalt,Souss-Massa,0,0,0
 Zeubelemok,Marrakech-Safi,0,0,0
-Meknès‎,Fès-Meknès,1,0,0
+Meknès‎,Fès-Meknès,3,0,0
 Khénifra,Béni Mellal-Khénifra,0,0,0
 Agourai,Fès-Meknès,0,0,0
 Ain Taoujdate,Fès-Meknès,0,0,0
@@ -255,7 +255,7 @@ Témara,Rabat-Salé-Kénitra,1,0,0
 Tiddas,Rabat-Salé-Kénitra,0,0,0
 Tiflet,Rabat-Salé-Kénitra,0,0,0
 Touarga,Rabat-Salé-Kénitra,0,0,0
-Agadir,Souss-Massa,1,0,0
+Agadir,Souss-Massa,3,0,0
 Agdz,Drâa-Tafilalet,0,0,0
 Agni Izimmer,Souss-Massa,0,0,0
 Aït Melloul,Souss-Massa,0,0,0

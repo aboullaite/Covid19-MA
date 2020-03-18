@@ -2614,11 +2614,11 @@
         "ID": 9,
         "Name-AR": "سوس - ماسة",
         "Name-FR": "Souss-Massa",
-        "Total cases": 2,
-        "Active cases": 2,
+        "Total cases": 4,
+        "Active cases": 4,
         "Total Deaths": 0,
         "Total Recovered": 0,
-        "fill": "#FFCFDF",
+        "fill": "#09C6F9",
 		    "fill-opacity": 0.5
       }
     },
@@ -4823,7 +4823,7 @@
         "Active cases": 2,
         "Total Deaths": 0,
         "Total Recovered": 0,
-        "fill": "#FFCFDF",
+        "fill": "#83EAF1",
 		    "fill-opacity": 0.5
       }
     },
@@ -12962,11 +12962,11 @@
         "ID": 3,
         "Name-AR": "فاس - مكناس",
         "Name-FR": "Fès-Meknès",
-        "Total cases": 6,
-        "Active cases": 6,
+        "Total cases": 7,
+        "Active cases": 7,
         "Total Deaths": 0,
         "Total Recovred": 0,
-        "fill": "#FE5F75",
+        "fill": "#045DE9",
 		    "fill-opacity": 0.5
       }
     },
@@ -14971,11 +14971,11 @@
         "ID": 6,
         "Name-AR": "الدار البيضاء - سطات",
         "Name-FR": "Casablanca-Settat",
-        "Total cases": 9,
-        "Active cases": 7,
+        "Total cases": 11,
+        "Active cases": 9,
         "Total Deaths": 1,
         "Total Recovred": 1,
-        "fill": "#F53844",
+        "fill": "#009FFD",
 		    "fill-opacity": 0.5        
       }
     },
@@ -16208,7 +16208,7 @@
         "Total Deaths": 1,
         "Active cases": 0,
         "Total Recovered": 0,
-        "fill": "#FFCFDF",
+        "fill": "#83EAF1",
 		    "fill-opacity": 0.5
       }
     },
@@ -20348,7 +20348,7 @@
         "Active cases": 5,
         "Total Deaths": 0,
         "Total Recovered": 0,
-        "fill": "#FE5F75",
+        "fill": "#09C6F9",
 		    "fill-opacity": 0.5 
       }
     },
@@ -22429,7 +22429,7 @@
         "Active cases": 13,
         "Total Deaths": 1,
         "Total Recovred": 0,
-        "fill": "#F53844",
+        "fill": "#009FFD",
 		    "fill-opacity": 0.5 
       }
     },
@@ -24418,7 +24418,7 @@
         "Active cases": 3,
         "Total Deaths": 0,
         "Total Recovred": 0,
-        "fill": "#FFCFDF",
+        "fill": "#63A4FF",
 		    "fill-opacity": 0.5
       }
     },
@@ -27823,7 +27823,7 @@
         "Active cases": 1,
         "Total Deaths": 0,
         "Total Recovred": 0,
-        "fill": "#FFCFDF",
+        "fill": "#83EAF1",
 		    "fill-opacity": 0.5
       }
     }
