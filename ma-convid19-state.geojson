@@ -12966,7 +12966,7 @@
         "Active cases": 7,
         "Total Deaths": 0,
         "Total Recovred": 0,
-        "fill": "#045DE9",
+        "fill": "#009FFD",
 		    "fill-opacity": 0.5
       }
     },
@@ -14975,7 +14975,7 @@
         "Active cases": 9,
         "Total Deaths": 1,
         "Total Recovred": 1,
-        "fill": "#009FFD",
+        "fill": "#045DE9",
 		    "fill-opacity": 0.5        
       }
     },
@@ -22429,7 +22429,7 @@
         "Active cases": 13,
         "Total Deaths": 1,
         "Total Recovred": 0,
-        "fill": "#009FFD",
+        "fill": "#045DE9",
 		    "fill-opacity": 0.5 
       }
     },
