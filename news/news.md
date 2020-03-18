@@ -1,5 +1,6 @@
 ---
 layout: main
+css: ../
 title: Latest Coronavirus news
 ---
 

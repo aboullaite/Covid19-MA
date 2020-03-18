@@ -16,17 +16,26 @@ This is not an official repository for Morocco Covid-19 Cases. This is just a co
 
 | Total Cases / الإصابات المؤكدة 	| Active Casesالإصابات الحالية 	| Deaths / الوفيات 	| Recovered / المعافين 	  |
 |--------------------------------	|------------------------------	|------------------	|----------------------	|
-|             **44**               	|              41              	|       **2**        	|           1          	|
+|             **49**               	|              46              	|       **2**        	|           1          	|
 
 ### Latest updates **18/03/2020** اخر المستجدات
 + تسجيل خمس حالات إصابة جديدة بفيروس كورونا لتصل الحصيلة إلى 49.
 
+#### Map representation of the current COVID-19 situation by region / خريطة توضح الوضع الحالي لفيروس كورونا حسب المنطقة
+<div id="map">
+    <script src="https://embed.github.com/view/geojson/aboullaite/Covid19-MA/master/ma-convid19-state.geojson"></script>
+</div>
+
+### Statistics about COVID-19 / إحصائيات عن فيروس كورونا
+#### [COVID-19 Data in Morocco by city / بيانات فيروس كورونا في المغرب حسب المدينة](stats/cities)
+#### [COVID-19 Data in Morocco by city / بيانات فيروس كورونا في المغرب حسب الجهة](stats/regions)
+#### [Time series of COVID-19 data in Morocco / التسلسل الزمني لبيانات فيروس كورونا في المغرب](stats/times_series)
+
 ### Important articles / مقالات مهمة
-#### [Coronavirus response fund / صندوق مواجهة الوباء](COVID19-MA-fund)
-#### [Latest news / تسلسل الأحداث](news)
+#### [Coronavirus response fund / صندوق مواجهة الوباء](news/COVID19-MA-fund)
+#### [Latest news / تسلسل الأحداث](news/news)
 #### [Useful links / روابط مهمة](useful-links)
 ###### [Other resources / مصادر أخرى](https://github.com/aboullaite/Covid19-MA)
-
 
 ### Important Numbers / ارقام مهمة 
 

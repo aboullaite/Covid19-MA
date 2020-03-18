@@ -183,3 +183,12 @@ ul {
 img{
   width: 45%;
 }
+
+caption{
+  margin: 10px;
+}
+
+#map{
+  margin: auto;
+  display: table;
+}
