@@ -20,7 +20,13 @@ This is not an official repository for Morocco Covid-19 Cases. This is just a co
 
 ### Latest updates **18/03/2020** اخر المستجدات
 + تسجيل خمس حالات إصابة جديدة بفيروس كورونا لتصل الحصيلة إلى 49.
++ السلطات العمومية تدعو المواطنات والمواطنين إلى تقييد والحد من تنقلاتهم والتزام العزلة الصحية في منازلهم كإجراء وقائي ضروري في هذه المرحلة الحساسة للحد من انتشار فيروس كورونا (بلاغ مشترك لوزارتي الداخلية والصحة)
 
+---
+### Contribution to COVID-19 fund / المساهمة في الصندوق الخاص بتدبير جائحة فيروس كورونا
+RIB: **001 810 00 780 002 011**
+
+---
 #### Map representation of the current COVID-19 situation by region / خريطة توضح الوضع الحالي لفيروس كورونا حسب المنطقة
 <div id="map">
     <script src="https://embed.github.com/view/geojson/aboullaite/Covid19-MA/master/ma-convid19-state.geojson"></script>
