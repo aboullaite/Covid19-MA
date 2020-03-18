@@ -1,4 +1,4 @@
-Region,Total Cass,Active Cases,Total Deaths,Total Recovered
+Region / الجهة,Total Cases / إجمالي الحالات,Active Cases / الحالات النشطة,Total Deaths / إجمالي الوفيات,Total Recovered / إجمالي المعافين
 Tanger-Tétouan-Al Hoceima,3,3,0,0
 Oriental,1,1,0,0
 Fès-Meknès,7,7,0,0
@@ -11,4 +11,3 @@ Souss-Massa,5,5,0,0
 Guelmim-Oued Noun,1,1,0,0
 Laayoune-Sakia El Hamra,0,0,0,0
 Eddakhla-Oued Eddahab,0,0,0,0
-
