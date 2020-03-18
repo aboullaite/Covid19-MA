@@ -1,10 +1,10 @@
 ### Covid-19 Data Morocco
 
-
 هذا العمل لا يمثل اي جهة رسمية مغربية، و انما هو مجهود جماعي لتوفير المعلومة و رصدها عبر تتبع الاخبار و المواقع الرسمية
 
 This is not an official repository for Morocco Covid-19 Cases. This is just a community effort based on the official data shared by Official sources
 
+Web page link: https://aboullaite.github.io/Covid19-MA/
 ###  Current Situation / الوضعية الحالية بالمغرب
 
 | Total Cases / الإصابات المؤكدة 	| Active Casesالإصابات الحالية 	| Deaths / الوفيات 	| Recovered / المعافين 	  |
