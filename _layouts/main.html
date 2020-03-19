@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link href="css/modest.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <div id="main">
+    <div id="content">
+        <ul class="dropdown-holder">
+            <li class="dr-item"><a href="./" class="item-menu">Home / الصفحة الرئيسية</a></li>
+            {% for item in site.data.toc.toc %}
+              <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn, item-menu">{{ item.title }}</a>
+                <div class="dropdown-content">
+                {% for entry in item.subfolderitems %}
+                <a href="{{ entry.url }}" class="item-menu">{{ entry.page }}</a>
+                {% endfor %}
+                </div>
+              </li>
+            {% endfor %}
+          </ul>
+    {{ content }}
+    </div>
+  </div>
+</body>
+</html>
