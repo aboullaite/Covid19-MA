@@ -9,9 +9,9 @@ This is not an official repository for Morocco Covid-19 Cases. This is just a co
 Official COVID-19 website in Morocco: http://www.covidmaroc.ma/
 ###  Current Situation / الوضعية الحالية بالمغرب
 
-| Total Cases / الإصابات المؤكدة 	| Active Casesالإصابات الحالية 	| Deaths / الوفيات 	| Recovered / المعافين 	  |
+| Total Cases / الإصابات المؤكدة 	| Active Cases الإصابات الحالية 	| Deaths / الوفيات 	| Recovered / المعافين 	  |
 |--------------------------------	|------------------------------	|------------------	|----------------------	|
-|             **61**             	|              58              	|       **2**      	|           1          	|
+|             **61**             	|              57              	|       **2**      	|           2          	|
 
 
 
@@ -19,6 +19,7 @@ Official COVID-19 website in Morocco: http://www.covidmaroc.ma/
 + تسجيل اربع حالات إصابة جديدة بفيروس كورونا لتصل الحصيلة إلى 58
 + http://www.covidmaroc.ma وزارة الصحة تطلق البوابة الرسمية لفيروس كورونا المستجد بالمغرب
 + رفعت  وزارة الصحة الحصيلة إلى 61 بعد تأكيد 3 حالات جديدة بعد زوال اليوم الخميس
++ شفاء حالة ثانية مصابة بفيروس كورونا المستجد بالمغرب
 
 ---
 
