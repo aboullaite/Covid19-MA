@@ -1,6 +1,8 @@
 toc:
     - title: Statistics / إحصائيات
       subfolderitems:
+        - page: Map representation of COVID-19 situation / خريطة الوضع الحالي لفيروس كورونا
+          url: map
         - page: COVID-19 Data in Morocco by city / بيانات فيروس كورونا في المغرب حسب المدينة
           url: pages_cities
         - page: COVID-19 Data in Morocco by city / بيانات فيروس كورونا في المغرب حسب الجهة
