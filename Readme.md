@@ -7,7 +7,6 @@ http://www.covidmaroc.ma/ البوابة الرسمية لفيروس كورون�
 This is not an official repository for Morocco Covid-19 Cases. This is just a community effort based on the official data shared by Official sources.
 
 Official COVID-19 website in Morocco: http://www.covidmaroc.ma/
-Repo Web page link: https://aboullaite.github.io/Covid19-MA/
 ###  Current Situation / الوضعية الحالية بالمغرب
 
 | Total Cases / الإصابات المؤكدة 	| Active Casesالإصابات الحالية 	| Deaths / الوفيات 	| Recovered / المعافين 	  |
