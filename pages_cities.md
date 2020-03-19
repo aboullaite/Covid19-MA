@@ -1,13 +1,13 @@
 ---
 layout: main
-css: ../
-title: Data per region
+css: ../../
+title: Data per city
 ---
 
-{% assign csvData=site.data.regions %}
+{% assign csvData=site.data.cities %}
 
 <table>
-    <caption>COVID-19 Data n Morocco by region / بيانات فيروس كورونا في المغرب حسب الجهة</caption>
+    <caption>COVID-19 Data in Morocco by city / بيانات فيروس كورونا في المغرب حسب المدينة</caption>
     <thead>
     {% for column in csvData[0] %}
         <th>{{ column[0] }}</th>
