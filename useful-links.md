@@ -1,6 +1,7 @@
 ### Useful links / روابط مهمة
 
 هذه اللائحة تضم مجموعة من المقالات، فيديوهات و معلمات مهمة حول فيروس كورونا، كيفية الوقايه منه التعامل معه:
++ [البوابة الرسمية لفيروس كورونا بالمغرب](http://www.covidmaroc.ma/)
 + [موقع وزارة الصحة المغرية](https://www.sante.gov.ma/Pages/Accueil.aspx)
 + [World Health Organization (WHO) / منظمة الصحة العالمية](https://www.who.int/)
 + Najib El Mokhtari -  [الأمل ديالنا الوحيد ضد تفشي وباء كورونا
