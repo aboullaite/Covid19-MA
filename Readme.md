@@ -1,11 +1,13 @@
 ### Covid-19 Data Morocco
 
 هذا العمل لا يمثل اي جهة رسمية مغربية، و انما هو مجهود جماعي لتوفير المعلومة و رصدها عبر تتبع الاخبار و المواقع الرسمية
+
 http://www.covidmaroc.ma/ البوابة الرسمية لفيروس كورونا بالمغرب
 
-This is not an official repository for Morocco Covid-19 Cases. This is just a community effort based on the official data shared by Official sources
+This is not an official repository for Morocco Covid-19 Cases. This is just a community effort based on the official data shared by Official sources.
+
 Official COVID-19 website in Morocco: http://www.covidmaroc.ma/
-Web page link: https://aboullaite.github.io/Covid19-MA/
+Repo Web page link: https://aboullaite.github.io/Covid19-MA/
 ###  Current Situation / الوضعية الحالية بالمغرب
 
 | Total Cases / الإصابات المؤكدة 	| Active Casesالإصابات الحالية 	| Deaths / الوفيات 	| Recovered / المعافين 	  |
@@ -14,7 +16,7 @@ Web page link: https://aboullaite.github.io/Covid19-MA/
 
 ### Latest updates 19/03/2020 اخر المستجدات
 + تسجيل اربع حالات إصابة جديدة بفيروس كورونا لتصل الحصيلة إلى 58
-+ http://www.covidmaroc.ma وزارة الصحة تطلق البوابة الرسمية لفيروس كورونا المستجد بالمغربhttp://www.covidmaroc.ma
++ http://www.covidmaroc.ma وزارة الصحة تطلق البوابة الرسمية لفيروس كورونا المستجد بالمغرب
 
 ### Contribution to COVID-19 fund / المساهمة في الصندوق الخاص بتدبير جائحة فيروس كورونا
 RIB: **001 810 00 780 002 011 062 02 21**
