@@ -17,7 +17,7 @@ Web page link: https://aboullaite.github.io/Covid19-MA/
 + http://www.covidmaroc.ma وزارة الصحة تطلق البوابة الرسمية لفيروس كورونا المستجد بالمغربhttp://www.covidmaroc.ma
 
 ### Contribution to COVID-19 fund / المساهمة في الصندوق الخاص بتدبير جائحة فيروس كورونا
-RIB: **001 810 00 780 002 011**
+RIB: **001 810 00 780 002 011 062 02 21**
 ### Important Numbers / ارقام مهمة 
 | Organization               | Number                         |
 | ---------------------- | ------------------------------ |
