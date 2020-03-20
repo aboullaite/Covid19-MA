@@ -1,6 +1,8 @@
 ### Useful links / روابط مهمة
 
 هذه اللائحة تضم مجموعة من المقالات، فيديوهات و معلمات مهمة حول فيروس كورونا، كيفية الوقايه منه التعامل معه:
++ [استمارة شهادة التنقل الاستثنائية](http://covid19.interieur.gov.ma/assets/files/attestation_confinement_ar.pdf)
++ [الموقع الخاص بالبلاغات المتعلقة بفيروس كورونا المستجد](http://covid19.interieur.gov.ma/)
 + [البوابة الرسمية لفيروس كورونا بالمغرب](http://www.covidmaroc.ma/)
 + [موقع وزارة الصحة المغرية](https://www.sante.gov.ma/Pages/Accueil.aspx)
 + [World Health Organization (WHO) / منظمة الصحة العالمية](https://www.who.int/)
