@@ -9,7 +9,7 @@ This is not an official repository for Morocco Covid-19 Cases. This is just a co
 Official COVID-19 website in Morocco: http://www.covidmaroc.ma/
 ###  Current Situation / الوضعية الحالية بالمغرب
 
-| Total Cases / الإصابات المؤكدة 	| Active Cases الإصابات الحالية 	| Deaths / الوفيات 	| Recovered / المعافين 	  |
+| Total Cases / الإصابات المؤكدة 	| Active Cases / الإصابات الحالية 	| Deaths / الوفيات 	| Recovered / المعافين 	  |
 |--------------------------------	|------------------------------	|------------------	|----------------------	|
 |             **66**             	|              61              	|       **3**      	|           2          	|
 
@@ -46,7 +46,7 @@ RIB: **001 810 00 780 002 011 062 02 21**
 ├── ma-convid19-state.geojson    // a geoJson (map) representation of the current COVID-19 situation by region
 ├── news
 │   ├── COVID19-MA-fund.md       // Updates about the fund created by Moroccan authorities to handle COVID-19 impact
-│   └── news.md                  // Important news/ updates and decisions since the first case of COVID-19 in Morocco
+│   └── news.md                  // Important news, updates and decisions since the first case of COVID-19 in Morocco
 ├── stats
 │   ├── MA-times_series.csv      // Time series of COVID-19 data in Morocco
 │   ├── cities.csv               // COVID-19 Data in Morocco by city
