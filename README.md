@@ -20,6 +20,7 @@ Official COVID-19 website in Morocco: http://www.covidmaroc.ma/
 + حالة الطوارئ الصحية: رجال وأعوان السلطة سيتكلفون بتوزيع شهادة التنقل الاستثنائية على كافة المنازل
 + تسجيل 8 حالات إصابة جديدة بفيروس كورونا لتصل الحصيلة إلى 74
 + ارتفاع عدد حالة الاصابة بالمغرب الى 77
+
 ---
 
 ### Contribution to COVID-19 fund / المساهمة في الصندوق الخاص بتدبير جائحة فيروس كورونا
@@ -30,17 +31,17 @@ RIB: **001 810 00 780 002 011 062 02 21**
 
 | Organization               | Number                         | مؤسسة               |
 | ---------------------- | ------------------------------ | ------------------------------ |
-| Allo Yakada » Covid-19 | 0801 00 47 47                  | ألو يقضة » Covid-19             |
+| Allo Yakada » Covid-19 | 0801 00 47 47                  | Covid-19 « ألو يقضة              |
 | Allo Samu              | 141                            | SAMU ألو                        |
 | Samu Casablanca        | 0522 25 25 25                  | الدار البيضاء SAMU              |
 | SOS médecin Maroc      | 0522 98 98 98                  | نداء الاستغاثة بالمغرب           |
 | SOS médecin Casablanca | 0522 47 47 47                  | نداء الاستغاثة بالدار البيضاء    |
-| Ambulance / pompiers   | 150                            | سيارة إسعاف / رجال إطفاء        |
-| Police                 | 190                            | شرطة                            |
+| Ambulance / pompiers   | 150                            | سيارة الإسعاف / رجال الإطفاء        |
+| Police                 | 190                            | الشرطة                            |
 | Gendarmerie Royale     | 177                            | الدرك الملكي                    |
 | Institut Pasteur       | 05 22 26 20 62 / 0522 43 44 50 | معهد باستور                     |
 | Centre Antipoison      | 0537 68 64 64 / 0801 00 01 80  | مركز السموم                     |
-| Renseignements         | 160                            | المعلومات                       |
+| Renseignements         | 160                            | معلومات عامة                       |
 
 ### Repository Structure
 ```
