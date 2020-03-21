@@ -2,7 +2,7 @@ City / المدينة,Region / المنطقة,Active Cases / الحالات ال
 Aïn Harrouda,Casablanca-Settat,0,0,0
 Ben Yakhlef,Casablanca-Settat,0,0,0
 Bouskoura,Casablanca-Settat,0,0,0
-Casablanca,Casablanca-Settat,9,1,1
+Casablanca,Casablanca-Settat,11,1,1
 Médiouna,Casablanca-Settat,0,0,0
 Mohammadia,Casablanca-Settat,0,0,0
 Tit Mellil,Casablanca-Settat,0,0,0
@@ -85,7 +85,7 @@ Mehdia,Rabat-Salé-Kénitra,0,0,0
 Moulay Bousselham,Rabat-Salé-Kénitra,0,0,0
 Sidi Allal Tazi,Rabat-Salé-Kénitra,0,0,0
 Sidi Kacem,Rabat-Salé-Kénitra,0,0,0
-Sidi Slimane,Rabat-Salé-Kénitra,0,0,0
+Sidi Slimane,Rabat-Salé-Kénitra,1,0,0
 Sidi Taibi,Rabat-Salé-Kénitra,0,0,0
 Sidi Yahya El Gharb,Rabat-Salé-Kénitra,0,0,0
 Souk El Arbaa,Rabat-Salé-Kénitra,0,0,0
@@ -226,7 +226,7 @@ Midar,l'Oriental,0,0,0
 Nador,l'Oriental,1,0,0
 Naima,l'Oriental,0,0,0
 Oued Heimer,l'Oriental,0,0,0
-Oujda,l'Oriental,1,0,0
+Oujda,l'Oriental,2,0,0
 Ras El Ma,l'Oriental,0,0,0
 Saïdia,l'Oriental,0,0,0
 Selouane,l'Oriental,0,0,0
@@ -240,7 +240,7 @@ Touima,l'Oriental,0,0,0
 Touissit,l'Oriental,0,0,0
 Zaïo,l'Oriental,0,0,0
 Zeghanghane,l'Oriental,0,0,0
-Rabat,Rabat-Salé-Kénitra,11,0,0
+Rabat,Rabat-Salé-Kénitra,12,0,0
 Salé,Rabat-Salé-Kénitra,1,1,0
 Ain El Aouda,Rabat-Salé-Kénitra,0,0,0
 Harhoura,Rabat-Salé-Kénitra,0,0,0
@@ -334,7 +334,7 @@ Sidi Jaber,Béni Mellal-Khénifra,0,0,0
 Souk Sebt Oulad Nemma,Béni Mellal-Khénifra,0,0,0
 Zaouïat Cheikh,Béni Mellal-Khénifra,0,0,0
 Tanger‎,Tanger-Tétouan-Al Hoceïma,3,0,0
-Tétouan‎,Tanger-Tétouan-Al Hoceïma,1,0,0
+Tétouan‎,Tanger-Tétouan-Al Hoceïma,3,0,0
 Akchour,Tanger-Tétouan-Al Hoceïma,0,0,0
 Assilah,Tanger-Tétouan-Al Hoceïma,0,0,0
 Bab Berred,Tanger-Tétouan-Al Hoceïma,0,0,0
