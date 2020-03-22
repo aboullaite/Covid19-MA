@@ -2,7 +2,7 @@ City / المدينة,Region / المنطقة,Active Cases / الحالات ال
 Aïn Harrouda,Casablanca-Settat,0,0,0
 Ben Yakhlef,Casablanca-Settat,0,0,0
 Bouskoura,Casablanca-Settat,0,0,0
-Casablanca,Casablanca-Settat,11,1,1
+Casablanca,Casablanca-Settat,13,1,1
 Médiouna,Casablanca-Settat,0,0,0
 Mohammadia,Casablanca-Settat,0,0,0
 Tit Mellil,Casablanca-Settat,0,0,0
@@ -19,7 +19,7 @@ El Borouj,Casablanca-Settat,0,0,0
 El Gara,Casablanca-Settat,0,0,0
 Guisser,Casablanca-Settat,0,0,0
 Hattane,Béni Mellal-Khénifra,0,0,0
-Khouribga,Béni Mellal-Khénifra,1,0,0
+Khouribga,Béni Mellal-Khénifra,1,1,0
 Loulad,Casablanca-Settat,0,0,0
 Oued Zem,Béni Mellal-Khénifra,0,0,0
 Oulad Abbou,Casablanca-Settat,0,0,0
@@ -138,7 +138,7 @@ Tamansourt,Marrakech-Safi,0,0,0
 Tameslouht,Marrakech-Safi,0,0,0
 Tanalt,Souss-Massa,0,0,0
 Zeubelemok,Marrakech-Safi,0,0,0
-Meknès‎,Fès-Meknès,9,0,0
+Meknès‎,Fès-Meknès,12,0,0
 Khénifra,Béni Mellal-Khénifra,0,0,0
 Agourai,Fès-Meknès,0,0,0
 Ain Taoujdate,Fès-Meknès,0,0,0
@@ -240,7 +240,7 @@ Touima,l'Oriental,0,0,0
 Touissit,l'Oriental,0,0,0
 Zaïo,l'Oriental,0,0,0
 Zeghanghane,l'Oriental,0,0,0
-Rabat,Rabat-Salé-Kénitra,13,0,0
+Rabat,Rabat-Salé-Kénitra,14,0,0
 Salé,Rabat-Salé-Kénitra,1,1,0
 Ain El Aouda,Rabat-Salé-Kénitra,0,0,0
 Harhoura,Rabat-Salé-Kénitra,0,0,0
