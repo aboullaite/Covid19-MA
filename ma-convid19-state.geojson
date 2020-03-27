@@ -2618,7 +2618,7 @@
         "Active cases": 11,
         "Total Deaths": 0,
         "Total Recovered": 0,
-        "fill": "#09C6F9",
+        "fill": "#009FFD",
 		    "fill-opacity": 0.5
       }
     },
@@ -4819,11 +4819,11 @@
         "ID": 5,
         "Name-AR": "بني ملال - خنيفرة",
         "Name-FR": "Béni Mellal-Khénifra",
-        "Total cases": 7,
-        "Active cases": 6,
+        "Total cases": 10,
+        "Active cases": 9,
         "Total Deaths": 1,
         "Total Recovered": 0,
-        "fill": "#83EAF1",
+        "fill": "#009FFD",
 		    "fill-opacity": 0.5
       }
     },
@@ -12968,7 +12968,7 @@
         "Active cases": 61,
         "Total Deaths": 1,
         "Total Recovered": 1,
-        "fill": "#045DE9",
+        "fill": "#63A4FF",
 		    "fill-opacity": 0.5
       }
     },
@@ -14973,8 +14973,8 @@
         "ID": 6,
         "Name-AR": "الدار البيضاء - سطات",
         "Name-FR": "Casablanca-Settat",
-        "Total cases": 104,
-        "Active cases": 99,
+        "Total cases": 107,
+        "Active cases": 102,
         "Total Deaths": 2,
         "Total Recovered": 3,
         "fill": "#045DE9",
@@ -20346,11 +20346,11 @@
         "ID": 7,
         "Name-AR": "مراكش - آسفي",
         "Name-FR": "Marrakech-Safi",
-        "Total cases": 51,
-        "Active cases": 51,
+        "Total cases": 57,
+        "Active cases": 57,
         "Total Deaths": 0,
         "Total Recovered": 0,
-        "fill": "#009FFD",
+        "fill": "#63A4FF",
 		    "fill-opacity": 0.5 
       }
     },
@@ -22431,7 +22431,7 @@
         "Active cases": 52,
         "Total Deaths": 2,
         "Total Recovered": 2,
-        "fill": "#045DE9",
+        "fill": "#63A4FF",
 		    "fill-opacity": 0.5 
       }
     },
@@ -27821,11 +27821,11 @@
         "ID": 2,
         "Name-AR": "الشرق",
         "Name-FR": "Oriental",
-        "Total cases": 9,
-        "Active cases": 9,
+        "Total cases": 12,
+        "Active cases": 12,
         "Total Deaths": 0,
         "Total Recovered": 0,
-        "fill": "#83EAF1",
+        "fill": "#009FFD",
 		    "fill-opacity": 0.5
       }
     }
