@@ -2615,8 +2615,8 @@
         "Name-AR": "سوس - ماسة",
         "Name-FR": "Souss-Massa",
         "Total cases": 11,
-        "Active cases": 11,
-        "Total Deaths": 0,
+        "Active cases": 9,
+        "Total Deaths": 2,
         "Total Recovered": 0,
         "fill": "#009FFD",
 		    "fill-opacity": 0.5
@@ -12965,8 +12965,8 @@
         "Name-AR": "فاس - مكناس",
         "Name-FR": "Fès-Meknès",
         "Total cases": 63,
-        "Active cases": 61,
-        "Total Deaths": 1,
+        "Active cases": 59,
+        "Total Deaths": 3,
         "Total Recovered": 1,
         "fill": "#63A4FF",
 		    "fill-opacity": 0.5
@@ -24417,8 +24417,8 @@
         "Name-AR": "طنجة - تطوان - الحسيمة",
         "Name-FR": "Tanger-Tétouan-Al Hoceima",
         "Total cases": 23,
-        "Active cases": 21,
-        "Total Deaths": 2,
+        "Active cases": 22,
+        "Total Deaths": 1,
         "Total Recovered": 0,
         "fill": "#09C6F9",
 		    "fill-opacity": 0.5
@@ -27822,8 +27822,8 @@
         "Name-AR": "الشرق",
         "Name-FR": "Oriental",
         "Total cases": 13,
-        "Active cases": 13,
-        "Total Deaths": 0,
+        "Active cases": 11,
+        "Total Deaths": 2,
         "Total Recovered": 0,
         "fill": "#009FFD",
 		    "fill-opacity": 0.5
