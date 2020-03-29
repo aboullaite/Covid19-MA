@@ -4,8 +4,7 @@
 
 * **وثائق**
     - [استمارة شهادة التنقل الاستثنائية](http://covid19.interieur.gov.ma/assets/files/attestation_confinement_ar.pdf)
-
-
+    - [الموقع الرسمي الذي أطلقه صندوق الضمان الاجتماعي](https://covid19.cnss.ma/)
 * **وطني**
     - [الموقع الخاص بالبلاغات المتعلقة بفيروس كورونا المستجد](http://covid19.interieur.gov.ma/)
     - [البوابة الرسمية لفيروس كورونا بالمغرب](http://www.covidmaroc.ma/)
