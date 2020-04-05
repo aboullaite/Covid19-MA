@@ -2615,9 +2615,9 @@
         "Name-AR": "سوس - ماسة",
         "Name-FR": "Souss-Massa",
         "Total cases": 19,
-        "Active cases": 17,
+        "Active cases": 16,
         "Total Deaths": 2,
-        "Total Recovered": 0,
+        "Total Recovered": 1,
         "fill": "#009FFD",
 		    "fill-opacity": 0.5
       }
@@ -4820,9 +4820,9 @@
         "Name-AR": "بني ملال - خنيفرة",
         "Name-FR": "Béni Mellal-Khénifra",
         "Total cases": 26,
-        "Active cases": 24,
+        "Active cases": 23,
         "Total Deaths": 2,
-        "Total Recovered": 0,
+        "Total Recovered": 1,
         "fill": "#009FFD",
 		    "fill-opacity": 0.5
       }
@@ -14974,9 +14974,9 @@
         "Name-AR": "الدار البيضاء - سطات",
         "Name-FR": "Casablanca-Settat",
         "Total cases": 248,
-        "Active cases": 237,
+        "Active cases": 233,
         "Total Deaths": 8,
-        "Total Recovered": 3,
+        "Total Recovered": 7,
         "fill": "#045DE9",
 		    "fill-opacity": 0.5        
       }
@@ -20349,9 +20349,9 @@
         "Name-AR": "مراكش - آسفي",
         "Name-FR": "Marrakech-Safi",
         "Total cases": 163,
-        "Active cases": 153,
+        "Active cases": 151,
         "Total Deaths": 8,
-        "Total Recovered": 2,
+        "Total Recovered": 4,
         "fill": "#63A4FF",
 		    "fill-opacity": 0.5 
       }
@@ -22430,9 +22430,9 @@
         "Name-AR": "الرباط - سلا - القنيطرة",
         "Name-FR": "Rabat-Salé-Kénitra",
         "Total cases": 171,
-        "Active cases": 165,
+        "Active cases": 160,
         "Total Deaths": 4,
-        "Total Recovered": 2,
+        "Total Recovered": 7,
         "fill": "#63A4FF",
 		    "fill-opacity": 0.5 
       }
@@ -24419,9 +24419,9 @@
         "Name-AR": "طنجة - تطوان - الحسيمة",
         "Name-FR": "Tanger-Tétouan-Al Hoceima",
         "Total cases": 63,
-        "Active cases": 62,
+        "Active cases": 61,
         "Total Deaths": 1,
-        "Total Recovered": 0,
+        "Total Recovered": 1,
         "fill": "#09C6F9",
 		    "fill-opacity": 0.5
       }
