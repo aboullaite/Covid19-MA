@@ -1,0 +1,21 @@
+---
+name: Sync master with the github page
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Merge master into gh-pages
+      run: |
+        git config user.name "Moahmmed Aboullaite"
+        git config user.email "aboullaite@users.noreply.github.com"
+        git fetch --prune --unshallow
+        git checkout gh-pages
+        git merge master --no-commit
+        git commit -m "Sync page with master"
+        git push --set-upstream origin gh-pages
+...
