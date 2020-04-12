@@ -9,7 +9,7 @@
     - [الموقع الخاص بالبلاغات المتعلقة بفيروس كورونا المستجد](http://covid19.interieur.gov.ma/)
     - [البوابة الرسمية لفيروس كورونا بالمغرب](http://www.covidmaroc.ma/)
     - [موقع وزارة الصحة المغرية](https://www.sante.gov.ma/Pages/Accueil.aspx)
-
+    - [الموقع الخاص لطلبات الدعم](https://www.tadamoncovid.ma/)
 
 * **مقاطع الفيديو**
     - Najib El Mokhtari -  [الأمل ديالنا الوحيد ضد تفشي وباء كورونا](https://www.youtube.com/watch?v=y-5GhynCxV4)
@@ -17,7 +17,6 @@
     - الدحيح - [كورونا](https://www.youtube.com/watch?v=mawje1RAKOw&feature=youtu.be)
 
 * **إحصائيات**
-    - [خريطة انتشار فيروس كورونا في **المغرب** في الوقت الحالي](https://www.datamaroc.com/covid19/) 
     - [خريطة انتشار فيروس كورونا في **العالم** في الوقت الحالي](https://www.who.int/redirect-pages/page/novel-coronavirus-(covid-19)-situation-dashboard) 
 
 * **دولي**
