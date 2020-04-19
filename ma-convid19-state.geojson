@@ -2614,10 +2614,10 @@
         "ID": 9,
         "Name-AR": "سوس - ماسة",
         "Name-FR": "Souss-Massa",
-        "Total cases": 35,
-        "Active cases": 32,
-        "Total Deaths": 2,
-        "Total Recovered": 1,
+        "Total cases": 44,
+        "Active cases": 26,
+        "Total Deaths": 5,
+        "Total Recovered": 13,
         "fill": "#c8f6f9",
 		    "fill-opacity": 0.5
       }
@@ -4820,9 +4820,9 @@
         "Name-AR": "بني ملال - خنيفرة",
         "Name-FR": "Béni Mellal-Khénifra",
         "Total cases": 58,
-        "Active cases": 54,
-        "Total Deaths": 2,
-        "Total Recovered": 2,
+        "Active cases": 42,
+        "Total Deaths": 6,
+        "Total Recovered": 10,
         "fill": "#83EAF1",
 		    "fill-opacity": 0.5
       }
@@ -7769,9 +7769,9 @@
         "Name-AR": "درعة - تافيلالت",
         "Name-FR": "Drâa-Tafilalet",
         "Total cases": 83,
-        "Active cases": 82,
-        "Total Deaths": 0,
-        "Total Recovered": 1,
+        "Active cases": 71,
+        "Total Deaths": 2,
+        "Total Recovered": 10,
         "fill": "#83EAF1",
 		    "fill-opacity": 0.5
       }
@@ -12966,9 +12966,9 @@
         "ID": 3,
         "Name-AR": "فاس - مكناس",
         "Name-FR": "Fès-Meknès",
-        "Total cases": 386,
-        "Active cases": 359,
-        "Total Deaths": 8,
+        "Total cases": 401,
+        "Active cases": 327,
+        "Total Deaths": 55,
         "Total Recovered": 19,
         "fill": "#63A4FF",
 		    "fill-opacity": 0.5
@@ -14975,8 +14975,8 @@
         "ID": 6,
         "Name-AR": "الدار البيضاء - سطات",
         "Name-FR": "Casablanca-Settat",
-        "Total cases": 760,
-        "Active cases": 749,
+        "Total cases": 779,
+        "Active cases": 768,
         "Total Deaths": 8,
         "Total Recovered": 3,
         "fill": "#045DE9",
@@ -20350,10 +20350,10 @@
         "ID": 7,
         "Name-AR": "مراكش - آسفي",
         "Name-FR": "Marrakech-Safi",
-        "Total cases": 663,
-        "Active cases": 653,
-        "Total Deaths": 8,
-        "Total Recovered": 2,
+        "Total cases": 720,
+        "Active cases": 634,
+        "Total Deaths": 35,
+        "Total Recovered": 51,
         "fill": "#045DE9",
 		    "fill-opacity": 0.5 
       }
@@ -22431,10 +22431,10 @@
         "ID": 4,
         "Name-AR": "الرباط - سلا - القنيطرة",
         "Name-FR": "Rabat-Salé-Kénitra",
-        "Total cases": 262,
-        "Active cases": 249,
-        "Total Deaths": 4,
-        "Total Recovered": 9,
+        "Total cases": 268,
+        "Active cases": 167,
+        "Total Deaths": 10,
+        "Total Recovered": 89,
         "fill": "#09C6F9",
 		    "fill-opacity": 0.5 
       }
@@ -24420,10 +24420,10 @@
         "ID": 1,
         "Name-AR": "طنجة - تطوان - الحسيمة",
         "Name-FR": "Tanger-Tétouan-Al Hoceima",
-        "Total cases": 283,
-        "Active cases": 281,
-        "Total Deaths": 1,
-        "Total Recovered": 1,
+        "Total cases": 312,
+        "Active cases": 262,
+        "Total Deaths": 14,
+        "Total Recovered": 36,
         "fill": "#09C6F9",
 		    "fill-opacity": 0.5
       }
@@ -27826,9 +27826,9 @@
         "Name-AR": "الشرق",
         "Name-FR": "Oriental",
         "Total cases": 148,
-        "Active cases": 143,
-        "Total Deaths": 5,
-        "Total Recovered": 0,
+        "Active cases": 127,
+        "Total Deaths": 13,
+        "Total Recovered": 8,
         "fill": "#009FFD",
 		    "fill-opacity": 0.5
       }
