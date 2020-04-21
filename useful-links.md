@@ -10,7 +10,7 @@
     - [البوابة الرسمية لفيروس كورونا بالمغرب](http://www.covidmaroc.ma/)
     - [موقع وزارة الصحة المغرية](https://www.sante.gov.ma/Pages/Accueil.aspx)
     - [الموقع الخاص لطلبات الدعم](https://www.tadamoncovid.ma/)
-
+    - [الاستشارة الطبية المجانية عن بعد](http://tbib24.com)
 * **مقاطع الفيديو**
     - Najib El Mokhtari -  [الأمل ديالنا الوحيد ضد تفشي وباء كورونا](https://www.youtube.com/watch?v=y-5GhynCxV4)
     - Mustapha Swinga - [نصائح مهمة بخصوص الوضع الوبائي الحالي في المغرب](https://www.youtube.com/watch?v=MoQzKA2VGIQ)
