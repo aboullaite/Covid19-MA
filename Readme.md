@@ -14,7 +14,7 @@ Official COVID-19 website in Morocco: http://www.covidmaroc.ma/
 |             **8997**             	|             791             	|       **213**      	|           7993        	|
 
 
-### Latest updates **15/06/2020** اخر المستجدات
+### Latest updates **17/06/2020** اخر المستجدات
 + المغرب يسجل 66 إصابة جديدة مؤكدة بكورونا خلال 24 ساعة
 
 ---
